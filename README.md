@@ -1,9 +1,9 @@
 <div id="header" align="center">
-    Hi there 👋
+    Привет, я - Зоя 👋
 </div>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3o7aD54BRsGytSgdgI/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/3o7aD54BRsGytSgdgI/giphy.gif" width="250"/>
 </div>
 
 <div id="badges" align="center">
