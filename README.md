@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    Привет, я - Зоя 👋
+    Hi, I'm Zoya! 👋
 </div>
 
 <div id="header" align="center">
