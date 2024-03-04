@@ -1,4 +1,6 @@
+<div id="header" align="center">
 ### Hi there 👋
+</div>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3o7aD54BRsGytSgdgI/giphy.gif" width="100"/>
