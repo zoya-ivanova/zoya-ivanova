@@ -12,27 +12,25 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="25%">
       <h3>📊 Data-Science</h3>
       🔒 <b>PRIVATE</b><br/>
       Data analysis and machine learning<br/>
       <sub>🟠 Jupyter Notebook</sub>
     </td>
-    <td width="50%">
+    <td width="25%">
       <h3>✈️ airflow</h3>
       🔒 <b>PRIVATE</b><br/>
       Data pipeline orchestration<br/>
       <sub>🔵 Python</sub>
     </td>
-  </tr>
-  <tr>
-    <td>
+    <td width="25%">
       <h3>🗄️ BigData</h3>
       🔒 <b>PRIVATE</b><br/>
       Big data processing and analytics<br/>
       <sub>🟠 Jupyter Notebook</sub>
     </td>
-    <td>
+    <td width="25%">
       <h3>⚙️ ETL</h3>
       🔒 <b>PRIVATE</b><br/>
       Data extraction and transformation<br/>
@@ -40,27 +38,25 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="25%">
       <h3>🔍 Parsing</h3>
       🔒 <b>PRIVATE</b><br/>
       Data parsing and preprocessing<br/>
       <sub>🟠 Jupyter Notebook</sub>
     </td>
-    <td>
+    <td width="25%">
       <h3>🔧 serialization</h3>
       🔒 <b>PRIVATE</b><br/>
       Data serialization utilities<br/>
       <sub>🔵 Python</sub>
     </td>
-  </tr>
-  <tr>
-    <td>
+    <td width="25%">
       <h3>♻️ Recursion</h3>
       🔒 <b>PRIVATE</b><br/>
       Recursion and algorithmic practice<br/>
       <sub>🟣 C#</sub>
     </td>
-    <td>
+    <td width="25%">
       <h3>🌐 js-utils-tools</h3>
       🔒 <b>PRIVATE</b><br/>
       HTML utilities and examples<br/>
